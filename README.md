@@ -239,6 +239,9 @@ const GRAPHQL_URL = 'http://localhost:8080/graphql';
 ### Recherche
 ![Search](docs/screenshots/search.png)
 
+### Erreur de Validation
+![Search](docs/screenshots/validation-error.png)
+
 ## 👨‍💻 Auteur
 
 **AliouServiteurs**
