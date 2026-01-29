@@ -1,0 +1,66 @@
+# ========================================
+# Backend (Spring Boot / Maven)
+# ========================================
+
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Maven
+backend/*.jar
+backend/*.war
+backend/*.ear
+
+# IDE
+backend/.idea/
+backend/.vscode/
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/*.iml
+backend/*.iws
+backend/*.ipr
+
+# Logs
+backend/*.log
+backend/logs/
+
+# ========================================
+# Frontend (React / Node)
+# ========================================
+
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Environment
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# IDE
+frontend/.vscode/
+frontend/.idea/
+
+# Testing
+frontend/coverage/
+
+# Misc
+frontend/.DS_Store
+
+# ========================================
+# Général
+# ========================================
+
+.DS_Store
+*.swp
+*.swo
+*~
